@@ -1,0 +1,14 @@
+# Curated overview: new files require an explicit disclosure review.
+*
+!/.gitignore
+!/README.md
+!/DISCLOSURE.md
+!/RIGHTS_AND_CREDITS.md
+!/docs/
+!/docs/public-media.json
+!/docs/media/
+!/docs/media/ward.webp
+!/docs/media/bedside.webp
+!/docs/media/floorplan-en.webp
+!/docs/media/floorplan-zh.webp
+!/docs/media/world-chronicle-demo-720p.mp4

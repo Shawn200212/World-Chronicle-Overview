@@ -1,0 +1,54 @@
+{
+  "description": "Public media shared by the project website and this overview. A research overview, not a development log or evaluation dataset.",
+  "path_base": "repository root",
+  "rights_notice": "RIGHTS_AND_CREDITS.md",
+  "updated": "2026-10-28",
+  "evidence_limit": "Stills and the demo show a running prototype; they do not establish a complete experience, reliability or player benefit.",
+  "items": [
+    {
+      "file": "docs/media/ward.webp",
+      "bytes": 51448,
+      "sha256": "30d1b16801ed8f7eca46f93a0df812e65568d938c913d60c6ddf5d308c6defd9",
+      "kind": "runtime_still",
+      "date_label": "October 2026",
+      "caption_en": "A UE runtime still of the ward where a shift happens. It shows the setting, not evidence that complete tasks are playable.",
+      "caption_zh": "一班工作发生的病房，UE 实机静帧。呈现场景，不作为完整任务已经可玩的证据。"
+    },
+    {
+      "file": "docs/media/bedside.webp",
+      "bytes": 65676,
+      "sha256": "e46d15e65a9afdaa1ff817febef649c37e7924e4f774a3057b976c31e1a2657b",
+      "kind": "runtime_still",
+      "date_label": "October 2026",
+      "caption_en": "Beds, curtains and the space beside them decide where people stand to talk.",
+      "caption_zh": "床位、床帘和床边的空间决定人站在哪里说话。"
+    },
+    {
+      "file": "docs/media/floorplan-en.webp",
+      "bytes": 32178,
+      "sha256": "7ec62a605138ed75346e941cf0450cb3d22fb3de135975c29660b88ab6f48c0f",
+      "kind": "floor_plan",
+      "date_label": "October 2026",
+      "caption_en": "One session's hospital floor; room names relabelled for public display.",
+      "caption_zh": "一局医院的楼层平面（英文标注）；房间名为公开说明而重新标注。"
+    },
+    {
+      "file": "docs/media/floorplan-zh.webp",
+      "bytes": 33280,
+      "sha256": "9b78b35c8d9eaab2ef6a6ee8ff90dfcdf49646bd2cf3f3651e7505a8a38dd6ac",
+      "kind": "floor_plan",
+      "date_label": "October 2026",
+      "caption_en": "One session's hospital floor (Chinese labels); room names relabelled for public display.",
+      "caption_zh": "一局医院的楼层平面；房间名为公开说明而重新标注。"
+    },
+    {
+      "file": "docs/media/world-chronicle-demo-720p.mp4",
+      "bytes": 4893011,
+      "sha256": "fe0430d5f76db151e9cc25e76b7b3fd3f980be4f8148dedbe5f295f88cde0849",
+      "kind": "demo_video",
+      "date_label": "October 2026",
+      "caption_en": "Mid-term demo, 1:21, 720p, no audio. Synthetic answer set and automated input; a development panel is blurred from about 32 s to 48 s.",
+      "caption_zh": "中期演示，1:21，720p，无声。合成答卷与自动操作；约 32–48 秒的开发面板已模糊。"
+    }
+  ]
+}
